@@ -1,2 +1,2 @@
 # GitProject
-my first git repository
+my first Git repository
